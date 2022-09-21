@@ -1,0 +1,32 @@
+Experiment 2
+(Flow Control)
+1.	To show the largest number among three.
+2.	To show the student ‘Ram ‘is securing mark below the pass mark 30.
+3.	To show the lists of prime numbers from 0 to user input.
+4.	To show that number is Armstrong number or not (for n numbers).
+5.	To show that number is palindrome or not.
+6.	To show the Fibonacci series from 0 to user input.
+7.	Python program to find the factorial of a number provided by the user.
+(Function)
+8.	Python program to find the H.C.F of two input number.
+9.	Python Program to find the L.C.M. of two input number.
+10.	Python Program to find the factors of a number.
+11.	To find the area of circle, square, rectangle, triangle and sphere.
+(Files)
+12.	Write a Python program to read an entire text file
+13.	Write a Python program to read first n lines of a file.
+14.	Write a Python program to append text to a file and display the text.
+15.	Write a Python program to read last n lines of a file.
+16.	Write a Python program to read a file line by line and store it into a list.
+17.	Write a Python program to read a file line by line store it into a variable.
+18.	Write a Python program to read a file line by line store it into an array.
+19.	Write a python program to find the longest words.
+20.	Write a Python program to count the number of lines in a text file.
+21.	Write a Python program to count the frequency of words in a file.
+22.	Write a Python program to get the file size of a plain file.
+23.	Write a Python program to write a list to a file.
+24.	Write a Python program to copy the contents of a file to another file.
+25.	Write a Python program to combine each line from first file with the corresponding line in second file.
+26.	Write a Python program to read a random line from a file.
+27.	Write a Python program to assess if a file is closed or not.
+28.	Write a Python program to remove newline characters from a file.

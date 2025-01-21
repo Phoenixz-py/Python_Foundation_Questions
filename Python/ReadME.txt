@@ -1,7 +1,7 @@
 Experiment 1
 
  (Fundamentals)
-1.	To display about yourself (Name, branch, roll no, semester, department, college name) where you show different types of comment line including the new line.
+1.	To display about yourself where you show different types of comment line including the new line.
 2.	Initialize two variables and to show the result of addition, multiplication, subtraction, division, modulus and exponent.
 3.	To show all the arithmetic operations by taking the input from the keyboard.
 4.	Convert the value from Celsius to Fahrenheit.
